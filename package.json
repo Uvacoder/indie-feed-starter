@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/chuanqisun/indie-feed-starter/issues"
   },
-  "homepage": "https://github.com/chuanqisun/indie-feed-starter#readme",
+  "homepage": "https://indie-feed-starter.vercel.app",
   "devDependencies": {
     "@indie-feed/cli": "^1.0.1"
   }
